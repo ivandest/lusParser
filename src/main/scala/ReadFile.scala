@@ -3,7 +3,7 @@ import scala.io.Source
 
 class ReadFile {
   def readFieldDescr(str: String) = {
-    
+
   }
 
 
